@@ -1,0 +1,2 @@
+FLASK_APP=draft_generator.py
+FLASK_DEBUG=1
